@@ -1,16 +1,12 @@
 毕业论文相关 Python 代码
 介绍
-这个仓库包含了我在撰写硕士毕业论文时所使用的相关Python代码。这些代码是关于个性化的人体热调节模型JOS-3 cover、TOPSIS评价方法、ZHANG式热感觉评价方法的OTS判断与评价代码等方面。
-
+这个仓库包含了我在撰写硕士毕业论文时所使用的相关Python代码。
+这些代码是关于个性化的人体热调节模型JOS-3 cover、TOPSIS评价方法、ZHANG式热感觉评价方法的OTS判断与评价代码、CFD-人体热调节模型双向耦合代码等方面。
+CFD-人体热调节模型双向耦合代码只能基于python 3.8版本运行。
 
 如何使用
-克隆仓库：
-
-bash
-Copy code
 git clone https://github.com/your_username/your_repository.git
 安装依赖：
-
 bash
 Copy code
 pip install -r requirements.txt
